@@ -23,4 +23,4 @@ Here you will find all the exercises that have been completed for the subject [I
   - [Classwork 5]( ): Exercises using functions and arrows functions
 
 - Condicional Statements && Logical Operators
-  - [Classwork 7]( ): Condicional Statements examples (if, else, else if)
+  - [Classwork 7](https://github.com/Pavelezl/Imperative-Programming/files/9902108/C7S-Ejercitacion.Mesa.de.Trabajo.docx.pdf): Condicional Statements examples (if, else, else if)
