@@ -8,6 +8,7 @@ Here you will find all the exercises that have been completed for the subject [I
 
 - Functions and Arrows Functions
   - Class 4: Functions
+  - Class 5: Functions
 
   # Classwork
 - First steps in java
