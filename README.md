@@ -11,7 +11,7 @@ Here you will find all the exercises that have been completed for the subject [I
   - Class 5: Functions parameters.
 
 - Condicional Statements && Logical Operators
-  - Class 6: Condicional Statements examples (if, else, else if)
+  - [Class 6](https://github.com/Pavelezl/Imperative-Programming/files/9898000/Ejercicio.clase.puede.subir_.docx.pdf): Condicional Statements examples (if, else, else if)
   - Class 6.1: Condicional Statements examples.
 
   # Classwork
