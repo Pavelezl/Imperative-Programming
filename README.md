@@ -3,12 +3,17 @@ Here you will find all the exercises that have been completed for the subject [I
 
 # Classes
 - First steps in JavaScript
-  - Class 2: JavaScript Syntax, Variables, Data Types, Operators.
-  - Class 3: Prompt
+  - Class 2: Variable Declarations: Variable Declarations, variable naming rules, variable scopes, Data types. 
+  - Class 3: Prompt && Operators
 
-- Functions and Arrows Functions
+- Functions
+  - Class 4: Functions, Expresion and Operators, Scope, Arrow function.
+  - Class 5: Functions parameters.
+
+- 
   - Class 4: Functions
   - Class 5: Functions
+
 
   # Classwork
 - First steps in java
