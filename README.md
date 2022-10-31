@@ -3,6 +3,7 @@ Here you will find all the exercises that have been completed for the subject [I
 
 # Classes
 - First steps in JavaScript
+  - Class 2: JavaScript Syntax, Variables, Data Types, Operators.
   - Class 3: Prompt
 
 - Functions and Arrows Functions
