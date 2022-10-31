@@ -10,9 +10,9 @@ Here you will find all the exercises that have been completed for the subject [I
   - Class 4: Functions, Expresion and Operators, Scope, Arrow function.
   - Class 5: Functions parameters.
 
-- 
-  - Class 4: Functions
-  - Class 5: Functions
+- Condicional Statements && Logical Operators
+  - Class 6.1: Condicional Statements examples.
+  - Class 7: Functions
 
 
   # Classwork
