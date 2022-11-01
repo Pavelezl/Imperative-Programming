@@ -24,3 +24,8 @@ Here you will find all the exercises that have been completed for the subject [I
 
 - Condicional Statements && Logical Operators
   - [Classwork 7](https://github.com/Pavelezl/Imperative-Programming/files/9902108/C7S-Ejercitacion.Mesa.de.Trabajo.docx.pdf): Condicional Statements examples (if, else, else if)
+  
+- Loops and Iterations
+  - [Classwork 8](https://github.com/Pavelezl/Imperative-Programming/files/9910422/C8A.Ejercitacion.Mesa.de.Trabajo.pdf): Exercises to practice for.. in statement, for..of a statement, breack and continue
+
+  
