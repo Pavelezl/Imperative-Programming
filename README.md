@@ -27,5 +27,7 @@ Here you will find all the exercises that have been completed for the subject [I
   
 - Loops and Iterations
   - [Classwork 8](https://github.com/Pavelezl/Imperative-Programming/files/9910422/C8A.Ejercitacion.Mesa.de.Trabajo.pdf): Exercises to practice for.. in statement, for..of a statement, breack and continue
+  - [Classwork 9]( https://github.com/Pavelezl/Imperative-Programming/files/9910537/C9A.Mesa.de.Trabajo.1.pdf): Exercise to practice all the topics seen so far
+
 
   
