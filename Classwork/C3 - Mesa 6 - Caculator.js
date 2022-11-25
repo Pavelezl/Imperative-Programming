@@ -29,7 +29,7 @@ function dividir (numero1, numero2){
 //CALCULADORA NIVEL II
 // console.log(“-------------- Testeo de Operaciones / Calculadora --------------”)
 
-/* //sumar
+//sumar
 let n1 = prompt("Ingrese su primer numero: ");
 let n2 = prompt("Ingrese su Segundo numero: ");
 console.log("Su valor es: " + sumar(n1,n2));
@@ -47,7 +47,7 @@ console.log("Su valor es: " + multiplicar(numero3,numero4));
 //Dividir
 let numero5 = prompt("Ingrese su primer numero: ");
 let numero6 = prompt("Ingrese su Segundo numero: ");
-console.log("Su valor es: " + dividir(numero5,numero6)); */
+console.log("Su valor es: " + dividir(numero5,numero6));
 
 //CALCULADORA NIVEL III
 // console.log(“-------------- Testeo de Operaciones / Calculadora --------------”)

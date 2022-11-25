@@ -137,13 +137,3 @@ let siguienteNumero = unNumero + 1;
 
 // Imprime en pantalla el valor asignado, o sea 124
 console.log(siguienteNumero);
-
-//EJERCICIO PLAYGROUND
-
-let primerNumero = 100
-let segundoNumero = 5
-
-console.log(resultadoSuma = primerNumero + segundoNumero); // 105
-console.log(resultadoResta = primerNumero - segundoNumero)  // 95
-console.log(resultadoMultiplicacion = primerNumero * segundoNumero) // 500
-console.log(resultadoDivision = primerNumero / segundoNumero) // 20
