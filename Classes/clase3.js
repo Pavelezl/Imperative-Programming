@@ -1,3 +1,7 @@
+// CLASS 2:
+// First steps in JavaScrip: 
+// - Variable Declarations, Variable Naming Rules, Variable Scopes, Data types
+
 //Declarar una variable
 
 let nombre2 = 'Pablo';
