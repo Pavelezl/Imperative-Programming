@@ -137,3 +137,10 @@ let siguienteNumero = unNumero + 1;
 
 // Imprime en pantalla el valor asignado, o sea 124
 console.log(siguienteNumero);
+
+
+//Prompt:
+const prompt = require("prompt-sync")({ sigint: true });
+
+let nombre5 = prompt("Ingrese su nombre: ");
+console.log('Hola ${nombre} !!!');
