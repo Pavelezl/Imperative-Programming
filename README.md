@@ -6,7 +6,7 @@ Here you will find all the exercises that have been completed for the subject [I
   - Class 3: First steps in JavaScript: Variable Declarations, Variable Naming Rules, Variable Scopes, Data types. 
   - Class 4: Functions, Function parameters, Arrow Functions, Built-in Functions.
   - Class 5: Functions Exercises: Function parameters, Arrow Functions, Built-in Functions.
-  - Class 5: Functions Exercises: Building a calculator using Functions.
+  - Class 5.5: Functions Exercises: Building a calculator using Functions.
 
 
   
