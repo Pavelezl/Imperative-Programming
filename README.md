@@ -1,5 +1,5 @@
 # Imperative Programming
-Here you will find all the exercises that have been completed for the subject [Imperative Programming]( ) Object Oriented Programming under the Certified Tech Developer Program of Digital House.
+Here you will find all the exercises that have been completed for the subject [Imperative Programming]( ) under the Certified Tech Developer Program of Digital House.
 
 # Classes
 - Introduction to JavaScript 
