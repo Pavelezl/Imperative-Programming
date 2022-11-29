@@ -10,6 +10,7 @@ Here you will find all the exercises that have been completed for the subject [I
   - Class 6: Conditionals statements and Exercises.
   - Class 7: Loops and Iterations Exercises. 
   - Class 8: Promtp Exercises. 
+  - Class 9: Functions with conditionals and iterations, practice exercises
 
 
   
