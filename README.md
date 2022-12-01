@@ -15,7 +15,8 @@ Here you will find all the exercises that have been completed for the subject [I
   - Class 11: Literal objects
   - Class 12: More exercises on literal objects, how to traverse them and how to modify their parameters.
   - Class 13: More exercises on functions, iterations, loops and arrays.
-  - Class 13: More exercises on loops and arrays.
+  - Class 14: More exercises on arrays. 
+  - Class 15: Bidimensional arrays, iterations and loops. 
 
 
   
