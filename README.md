@@ -19,6 +19,8 @@ Here you will find all the exercises that have been completed for the subject [I
   - Class 15: Bidimensional arrays, iterations and loops. 
   - Class 16: More exercises on literal objects, how to traverse them and how to modify their parameters.
   - Class 17: More exercises on Bidimensional arrays, iterations and loops. 
+  - parcial: First exam of the subject imperative programming, where we have to perform several exercises to integrate the concepts learned.
+  - parcialFinal: Final exam of the subject imperative programming, where we have to perform several exercises to integrate the concepts learned.  
 
 
   
