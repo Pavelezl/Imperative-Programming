@@ -15,6 +15,7 @@ Here you will find all the exercises that have been completed for the subject [I
   - Class 11: Literal objects
   - Class 12: More exercises on literal objects, how to traverse them and how to modify their parameters.
   - Class 13: More exercises on functions, iterations, loops and arrays.
+  - [Class 13](https://github.com/Pavelezl/Imperative-Programming-CodingExercises/files/10250050/Ejercitacion.Mesa.de.Trabajo.-.CS13.docx.pdf): Loops and Iterations Exercises.
   - Class 14: More exercises on arrays. 
   - Class 15: Bidimensional arrays, iterations and loops. 
   - Class 16: More exercises on literal objects, how to traverse them and how to modify their parameters.
@@ -22,4 +23,3 @@ Here you will find all the exercises that have been completed for the subject [I
   - parcial: First exam of the subject imperative programming, where we have to perform several exercises to integrate the concepts learned.
   - parcialFinal: Final exam of the subject imperative programming, where we have to perform several exercises to integrate the concepts learned.  
 
-  
