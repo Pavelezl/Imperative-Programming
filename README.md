@@ -9,6 +9,7 @@ Here you will find all the exercises that have been completed for the subject [I
   - Class 5.5: Functions Exercises: Building a calculator using Functions.
   - Class 6: Conditionals statements and Exercises.
   - Class 7: Loops and Iterations Exercises. 
+  - [Class 7](https://github.com/Pavelezl/Imperative-Programming-CodingExercises/files/10250036/C8A.Ejercitacion.Mesa.de.Trabajo.1.pdf): Loops and Iterations Exercises.
   - Class 8: Promtp Exercises. 
   - Class 9: Functions with conditionals and iterations, practice exercises.
   - Class 10: Data Structures: Indexed collections; Arrays. 
@@ -21,6 +22,7 @@ Here you will find all the exercises that have been completed for the subject [I
   - Class 17: More exercises on Bidimensional arrays, iterations and loops. 
   - parcial: First exam of the subject imperative programming, where we have to perform several exercises to integrate the concepts learned.
   - parcialFinal: Final exam of the subject imperative programming, where we have to perform several exercises to integrate the concepts learned.  
-
+  
+  
 
   
