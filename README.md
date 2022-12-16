@@ -7,6 +7,7 @@ Here you will find all the exercises that have been completed for the subject [I
   - Class 4: Functions, Function parameters, Arrow Functions, Built-in Functions.
   - Class 5: Functions Exercises: Function parameters, Arrow Functions, Built-in Functions.
   - Class 5.5: Functions Exercises: Building a calculator using Functions.
+  - [Class 5.5](https://github.com/Pavelezl/Imperative-Programming-CodingExercises/files/10250043/Hagamos.una.Calculadora.1.pdf): Loops and Iterations Exercises.
   - Class 6: Conditionals statements and Exercises.
   - [Class 7](https://github.com/Pavelezl/Imperative-Programming-CodingExercises/files/10250036/C8A.Ejercitacion.Mesa.de.Trabajo.1.pdf): Loops and Iterations Exercises.
   - Class 8: Promtp Exercises. 
@@ -21,7 +22,5 @@ Here you will find all the exercises that have been completed for the subject [I
   - Class 17: More exercises on Bidimensional arrays, iterations and loops. 
   - parcial: First exam of the subject imperative programming, where we have to perform several exercises to integrate the concepts learned.
   - parcialFinal: Final exam of the subject imperative programming, where we have to perform several exercises to integrate the concepts learned.  
-  
-  
 
   
